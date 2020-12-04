@@ -1,0 +1,38 @@
+#chef{
+	top:100px;
+	left:300px;
+}
+#patties{
+	top:300px;
+	left:130px;
+}
+#mushrooms{
+	top:300px;
+	left:260px;
+}
+#lettuces{
+	top:300px;
+	left:380px;
+}
+#shrimps{
+	top:300px;
+	left:490px;
+}
+#feets{
+	top:310px;
+	left:620px;
+}
+#soils{
+	top:320px;
+	left:720px;
+}
+#sauces{
+	position:absolute;
+	top:330px;
+	left:90px;
+	height:80px;
+}
+#buns{
+	top:350px;
+	left:460px;
+}

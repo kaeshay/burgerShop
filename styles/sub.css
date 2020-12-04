@@ -1,0 +1,44 @@
+.avatar{
+	position:absolute;
+	width:100px;
+}
+.wide-avatar{
+	position:absolute;
+	width:150px;
+}
+.avatars{
+	position:absolute;
+	top:400px;
+	left:200px;
+}
+.room{
+	position:absolute;
+	width:1000px;
+}
+.inventory{
+	position:absolute;
+	width:1000px;
+}
+.item{
+	width:80px;
+}
+.medium-item{
+	width:180px;
+}
+.big-item{
+	width:250px;
+}
+.ingredients{
+	position:absolute;
+	width:100px;
+	height:50px;
+	border:2px solid #ccc;
+}
+.ingredients img{
+	margin:-30px;
+}
+.jar{
+	width:50px;
+	margin-left:-30px;
+}
+
