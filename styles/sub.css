@@ -1,7 +1,9 @@
 .avatar{
+	position:absolute;
 	width:100px;
 }
 .wide-avatar{
+	position:absolute;
 	width:150px;
 }
 .avatars{
@@ -35,3 +37,8 @@
 .ingredients img{
 	margin:-30px;
 }
+.jar{
+	width:50px;
+	margin-left:-30px;
+}
+

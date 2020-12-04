@@ -1,3 +1,7 @@
+#chef{
+	top:100px;
+	left:300px;
+}
 #patties{
 	top:300px;
 	left:130px;
@@ -18,12 +22,13 @@
 	top:310px;
 	left:620px;
 }
-#soil{
+#soils{
 	top:320px;
 	left:720px;
 }
 #sauces{
-	top:360px;
+	position:absolute;
+	top:330px;
 	left:90px;
 	height:80px;
 }
